@@ -1,8 +1,13 @@
-# _My First Project_
+# _My Portfolio_
 
 #### By _**Ian Bravo**_
 
 #### _This website represents my portfolio_
+
+## GitHub Pages ##
+
+_add link_
+
 
 ## Technologies Used
 
@@ -11,12 +16,11 @@
 
 ## Description
 
-_Our webpage was developed with HTML and CSS._
+_My webpage was developed with HTML and CSS._
 
 ## Setup/Installation Requirements
 
 * _Utilize an up-to-date web browser such as Google Chrome_
-
 
 
 ## Known Bugs
@@ -26,6 +30,16 @@ _Our webpage was developed with HTML and CSS._
 
 ## License
 
-_placeholder_
+MIT License  
 
-Copyright (c) _04 Aug 2023_ _Ian Bravo_
+Copyright (c) 04 Aug 2023 Ian Bravo  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+_For questions or concerns, please email me at bravo.ian@gmail.com_
