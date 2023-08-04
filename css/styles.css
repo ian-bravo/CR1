@@ -1,7 +1,20 @@
+
+.center {
+    float:right;
+    border-style: none;
+    margin: auto 50% auto 0;
+}
+
+img {
+    width: 20%;
+    margin-top: 10%;
+}
+
+
 .ol {
     list-style: none;
 }
 
-.bold {
-    font-weight:bold;
+.oblique {
+    font-style: oblique;
 }
