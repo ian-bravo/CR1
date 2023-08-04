@@ -18,10 +18,15 @@ img {
     list-style: none;
 }
 
-.oblique {
+.italic {
     font-style: oblique;
 }
 
 #protein {
     float:bottom;
+    padding-bottom: 10px;
+    border-style: double;
+    border: 10%;
+    border-color: black;
+    box-sizing: border-box;
 }
