@@ -21,3 +21,7 @@ img {
 .oblique {
     font-style: oblique;
 }
+
+#protein {
+    float:bottom;
+}
