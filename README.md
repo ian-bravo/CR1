@@ -2,11 +2,11 @@
 
 #### By _**Ian Bravo**_
 
-#### _This website represents my portfolio_
+#### _This website is my portfolio_
 
-## GitHub Pages ##
+## GitHub Page ##
 
-_link_
+https://ian-bravo.github.io/CR1/
 
 
 ## Technologies Used

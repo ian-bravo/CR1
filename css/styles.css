@@ -2,15 +2,11 @@ body {
     background-color: rgba(100, 200, 50, 0.5);
 }
 
-.header {
-    text-align: center;
-}
-
 img {
+    display: block;
+    margin: 0 auto 0 auto;
     width: 30%;
-    margin: 10%;
-    object-fit: contain;
-    float: top;
+    padding: 10px;
 }
 
 .center-text {
