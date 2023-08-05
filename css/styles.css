@@ -9,6 +9,10 @@ img {
     padding: 10px;
 }
 
+.center {
+    padding: 0 10% 0 10%;
+}
+
 .center-text {
     text-align: center;
 }
@@ -16,14 +20,19 @@ img {
 
 .list {
     list-style: none;
+    padding: 0 10% 0 10%;
+    /* float: left; */
+    display: block;
+    margin: 0 10% 0 10%;
 }
+/* adjusting list to have better formatting, need to expand */
 
 .italic {
     font-style: oblique;
 }
 
 #protein {
-    float:bottom;
+    float:none;
     padding-bottom: 10px;
     border-style: double;
     border: 10%;
