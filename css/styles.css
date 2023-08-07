@@ -17,15 +17,12 @@ img {
     text-align: center;
 }
 
-
 .list {
     list-style: none;
     padding: 0 10% 0 10%;
-    /* float: left; */
     display: block;
     margin: 0 10% 0 10%;
 }
-/* adjusting list to have better formatting, need to expand */
 
 .italic {
     font-style: oblique;
@@ -35,10 +32,10 @@ img {
     float:left;
     width: 20%;
     margin: 5% 40% 10% 40%;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     border-style: double;
     border-radius: 10px;
-    border: 90%;
+    border: 10%;
     border-color: black;
     box-sizing: border-box;
 }
