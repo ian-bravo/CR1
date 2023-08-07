@@ -28,6 +28,11 @@ img {
     font-style: oblique;
 }
 
+#projects {
+    width: 20%;
+    margin: auto 40% auto 40%;
+}
+
 #gecko {
     float:left;
     width: 20%;
