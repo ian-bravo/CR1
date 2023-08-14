@@ -2,7 +2,7 @@
 
 #### By _**Ian Bravo**_
 
-#### _This website is my portfolio_
+#### _This website is my portfolio._
 
 ## GitHub Page ##
 
@@ -13,16 +13,19 @@ https://ian-bravo.github.io/CR1/
 
 * _HTML_
 * _CSS_
-*_Chrome_
 
 ## Description
 
-_My Portfolio was developed with HTML and CSS._
+My Portfolio was developed with HTML and CSS. This webpage reflects my current interests, past project's repositories, and a short description about myself. Idealy, this webpage will continue to be updated as I learn more applicable technologies. Stay tuned!
 
 ## Setup/Installation Requirements
 
-* _Utilize an up-to-date web browser such as Google Chrome_
-
+1. Open Terminal.
+2. Change your directory to where you would want the cloned directory.
+3. Input the following command into your terminal:  
+ _git clone https://github.com/ian-bravo/CR1_
+4. Navigate to the top level of this newly cloned directory.
+5. Open index.html in your browser to view the webpage. 
 
 ## Known Bugs
 
